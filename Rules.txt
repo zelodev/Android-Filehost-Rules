@@ -1,0 +1,248 @@
+modsfire.com##.download-block
+modsfire.com##.download-wrp
+modsfire.com##.disc-tab
+modsfire.com##.disc-tabbing-wrp
+modsfire.com##.navbar.navbar-expand-md
+modsfire.com##.inf-down
+modsfire.com##.container.p-0
+modsfire.com##.top-downloads
+modsfire.com##.footer-waves > .img-fluid.light-mode-img
+upfilesgo.com##.wrap.nav-inner
+upfilesgo.com##.download-option.premium
+upfilesgo.com##div.download-option:nth-of-type(1) > h4
+upfilesgo.com##div.download-option:nth-of-type(1) > .speed
+upfilesgo.com##div.download-option:nth-of-type(2) > h4
+upfilesgo.com##div.download-option:nth-of-type(2) > .speed
+www.up-4ever.net##.u4dl-choice.u4dl-spotcol
+www.up-4ever.net##.u4f.u4-x
+www.up-4ever.net##div.u4dl-card:nth-of-type(1)
+www.up-4ever.net##div.u4dl-card:nth-of-type(2)
+www.up-4ever.net##.u4dl-faqwrap
+www.up-4ever.net##.u4h-row
+www.up-4ever.net##.u4dl-pick > p
+www.up-4ever.net##.u4dl-pick > .u4dl-kicker
+www.up-4ever.net##.u4dl-pick > h2
+www.up-4ever.net##.u4dl-choice.u4dl-choice--prem
+www.up-4ever.net##.u4dl-cic.u4dl-cic--free
+www.up-4ever.net##.u4dl-choice.u4dl-choice--free > h3
+www.up-4ever.net##.u4dl-choice.u4dl-choice--free > .u4dl-ctag
+www.up-4ever.net##li.is-off:nth-of-type(5)
+www.up-4ever.net##li.is-off:nth-of-type(4)
+www.up-4ever.net##li.is-off:nth-of-type(3)
+www.up-4ever.net##.u4dl-choice.u4dl-choice--free > .u4dl-feats > li:nth-of-type(1)
+www.up-4ever.net##.u4dl-choice.u4dl-choice--free > .u4dl-feats > li:nth-of-type(2)
+www.up-4ever.net##section:nth-of-type(4)
+www.up-4ever.net##.u4dl-infosec
+www.up-4ever.net##.u4dl-cmpsec > .u4dl-wrap
+www.up-4ever.net##.uW1-stage__head
+www.up-4ever.net##.uW1-detailgrid > .u4-card
+www.up-4ever.net###share
+www.up-4ever.net##section.u4-sec:nth-of-type(7)
+www.up-4ever.net##main.u4-x > section.u4-sec:nth-of-type(1)
+www.up-4ever.net##.u4-pagehead
+www.up-4ever.net##.u4r2-copy
+www.up-4ever.net##h2
+www.up-4ever.net##.u4r2-tick
+www.up-4ever.net##.u4r2-eyebrow
+www.up-4ever.net##.u4r2-railslot
+uploady.io##.tg-coup-inner
+uploady.io###tg-coup-wrap
+uploady.io###tg-fab > span:nth-of-type(1)
+uploady.io##.download-card.premium.w-100.d-flex.flex-column.position-relative
+uploady.io##.feature-list.negative
+uploady.io##.time-box.danger
+uploady.io###free-header
+uploady.io##.h3.fw-bold.mb-2
+uploady.io###premiumplans
+uploady.io##.footer
+uploady.io###tg-fab-lbl
+uploady.io##.text-center.mb-5.upgrade-cta
+uploady.io##.row.header-row.align-items-center.flex-nowrap
+uploady.io##.header
+uploady.io##.free-trust-nudge.mt-2
+uploady.io##.card-header-clean.text-center.free-header-fix > h4
+uploady.io##.card-header-clean.text-center.free-header-fix > p
+uploady.io##.card-header-clean.text-center.free-header-fix
+uploady.io###premium-note
+uploady.io##.mt-3.text-center > div:nth-of-type(2)
+uploady.io##.captcha-header
+uploady.io##.captcha-upsell
+uploady.io##.captcha-note
+uploady.io##div.col-6:nth-of-type(2)
+uploady.io##.row.mb-4.text-center
+uploady.io##.col-md-4.text-center.text-md-right
+uploady.io##.d-flex.align-items-start.justify-content-center.justify-content-md-start.text-center.text-md-left
+uploady.io##div.text-center.small.text-muted.mt-3:nth-of-type(3)
+uploady.io##.card-body.p-4.p-md-5 > .text-center.small.text-muted.mt-3
+uploady.io##.small.text-muted.mt-2
+djxmaza.in##.navbar.navbar-expand-lg
+djxmaza.in##[src*="https\:\/\/devuploads\.com\/images\/ins\/scroll_down_en\.png"]
+djxmaza.in###about
+djxmaza.in###aboutdis
+djxmaza.in##div.col-12.aboutFile.mb-4:nth-of-type(2)
+djxmaza.in##.report
+djxmaza.in##.footer.p-5.position-absolute
+djxmaza.in##div.col-12.aboutFile.mb-4:nth-of-type(3)
+djxmaza.in##div.text-center.mb-4:nth-of-type(5)
+djxmaza.in##div.text-center:nth-of-type(6)
+uploadrar.com##.row.header-row.align-items-center.flex-nowrap
+uploadrar.com##.btn.btn-primary.btn-lg.m-2
+uploadrar.com##div.small.text-muted.mb-4:nth-of-type(9)
+uploadrar.com##.row.g-0.premiumTable-heading > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(2) > .row.g-0 > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(3) > .row.g-0 > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(4) > .row.g-0 > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(5) > .row.g-0 > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(6) > .row.g-0 > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(7) > .row.g-0 > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(8) > .row.g-0 > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(9) > .row.g-0 > .col.text-end
+uploadrar.com##div.border-bottom:nth-of-type(10) > .row.g-0 > .col.text-end
+uploadrar.com##div.row.g-0:nth-of-type(11) > .col.text-end
+uploadrar.com##.row.g-0.premiumTable-heading > div.col:nth-of-type(3)
+uploadrar.com##.row.g-0.premiumTable-heading > div.col.premium:nth-of-type(4)
+uploadrar.com##.row.g-0.premiumTable-heading > div.col:nth-of-type(2)
+uploadrar.com##.row.g-0.premiumTable-heading > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(2) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(10) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(6) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(2) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.row.g-0:nth-of-type(11) > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(10) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(10) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(10) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.row.g-0:nth-of-type(11) > div.col.premium:nth-of-type(4)
+uploadrar.com##div.row.g-0:nth-of-type(11) > div.col:nth-of-type(2)
+uploadrar.com##div.row.g-0:nth-of-type(11) > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(9) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(7) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(8) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(5) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(4) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(4) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.border-bottom:nth-of-type(2) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(2) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.border-bottom:nth-of-type(3) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(3) > .row.g-0 > div.col:nth-of-type(3)
+uploadrar.com##div.border-bottom:nth-of-type(3) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.border-bottom:nth-of-type(3) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(4) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(4) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(5) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(8) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(7) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(6) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(9) > .row.g-0 > div.col.premium:nth-of-type(4)
+uploadrar.com##div.border-bottom:nth-of-type(9) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(8) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(7) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(6) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(5) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.border-bottom:nth-of-type(6) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.border-bottom:nth-of-type(5) > .row.g-0 > div.col.premium:nth-of-type(5)
+uploadrar.com##div.border-bottom:nth-of-type(7) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.border-bottom:nth-of-type(8) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.border-bottom:nth-of-type(9) > .row.g-0 > div.col:nth-of-type(2)
+uploadrar.com##div.border-bottom:nth-of-type(9)
+uploadrar.com##div.border-bottom:nth-of-type(2)
+uploadrar.com##.premiumTable.text-body-emphasis.mb-lg-5
+uploadrar.com##.nav.nav-fill.block-tabs > a.nav-link:nth-of-type(2)
+uploadrar.com##.nav-link.active
+uploadrar.com##.nav.nav-fill.block-tabs > a.nav-link:nth-of-type(3)
+uploadrar.com###tab_down_link > .codes-textarea > .form-control.copy-source
+uploadrar.com###tab_down_link > .codes-textarea > .btn.icon-btn.text-muted
+uploadrar.com##.block.p-0
+uploadrar.com##.row.g-3 > .col-auto.flex-grow-1.flex-shrink-1 > .text-dark
+uploadrar.com##.row.g-3 > div.col-auto:nth-of-type(1)
+uploadrar.com##.fs-4
+zdrive.to##.max-w-\[1440px\].mx-auto.px-6.h-20.flex.items-center.justify-between.relative
+zdrive.to##.border.border-\[\#222\].bg-\[\#0a0a0a\].p-6.md\:p-8.relative.mb-6
+zdrive.to##.btn.hover-snap.w-full.h-14.bg-primary.text-black.font-bold.text-sm.uppercase.tracking-widest.flex.items-center.justify-center.gap-2.transition-all.hover\:bg-white
+zdrive.to##div.mt-8.pt-6.border-t.border-\[\#1a1a1a\]:nth-of-type(4)
+zdrive.to##.text-gray-400.text-sm.leading-relaxed.break-all
+zdrive.to##.border-t.border-\[\#333\].bg-\[\#050505\].py-12
+zdrive.to##.text-primary.text-sm.font-bold.uppercase.tracking-widest.font-mono.mb-3.break-all
+zdrive.to##div.mt-8.pt-6.border-t.border-\[\#1a1a1a\]:nth-of-type(5)
+zdrive.to##div.flex.items-center.gap-3.p-3.border.border-\[\#1a1a1a\].bg-\[\#111\]:nth-of-type(1)
+zdrive.to##div.flex.items-center.gap-3.p-3.border.border-\[\#1a1a1a\].bg-\[\#111\]:nth-of-type(2)
+zdrive.to##div.flex.items-center.gap-3.p-3.border.border-\[\#1a1a1a\].bg-\[\#111\]:nth-of-type(3)
+zdrive.to##div.flex.items-center.gap-3.p-3.border.border-\[\#1a1a1a\].bg-\[\#111\]:nth-of-type(4)
+zdrive.to##div.flex.items-center.gap-3.p-3.border.border-\[\#1a1a1a\].bg-\[\#111\]:nth-of-type(5)
+zdrive.to##div.flex.items-center.gap-3.p-3.border.border-\[\#1a1a1a\].bg-\[\#111\]:nth-of-type(6)
+zdrive.to##.text-center.text-white.font-bold.uppercase.tracking-wide.mb-6
+zdrive.to##.fixed.top-0.left-0.right-0.z-50.w-full.border-b.border-\[\#333\].bg-\[\#050505\]\/95.backdrop-blur-md
+zdrive.to##.border.border-\[\#222\].bg-\[\#0a0a0a\].p-6.md\:p-8.mt-6
+vexfile.com###double_banner_container_1
+vexfile.com##.copyright
+vexfile.com##.post-d
+vexfile.com##header
+vexfile.com##.profile-block
+vexfile.com###vexfile_com_1050x336_billboard_lower_responsive-5t19f
+vexfile.com##.file-author
+vexfile.com###vexfile_com_1050x336_billboard_lower_responsive-b4ivx
+cloudfam.io##.container.mx-auto.px-4.sm\:px-6.h-14.flex.items-center.justify-between
+cloudfam.io##.cf-wrap > p
+cloudfam.io##.py-5.mt-auto
+cloudfam.io##.cf-dl-hero
+cloudfam.io##.cf-safety
+cloudfam.io##div.b.done:nth-of-type(1)
+cloudfam.io##div.b.done:nth-of-type(2)
+cloudfam.io##div.b.done:nth-of-type(4)
+cloudfam.io##div.b.done:nth-of-type(3)
+katfile.biz###container > div:nth-of-type(3) > div:nth-of-type(1)
+katfile.biz###kf-ad
+katfile.biz###kf-ad-overlay
+katfile.biz##.navbar-header
+katfile.biz##.page-buffer
+katfile.biz##footer > .container-fluid
+katfile.biz##.navbar.navbar-default.navbar-static-top
+katfile.biz##.visible-xs > div:nth-of-type(1) > .k-emo-banner
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(1) > thead > tr > th:nth-of-type(1)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(1) > thead > tr > th:nth-of-type(3)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(1) > thead > tr > th:nth-of-type(2) > .dl-bar-wrap
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(1) > thead > tr > th:nth-of-type(2) > p
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(1) > thead > tr > th:nth-of-type(2) > .dl-speed-label
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > thead > tr > th:nth-of-type(1)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > thead > tr > th:nth-of-type(2)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > thead > tr > th:nth-of-type(3)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(3) > td:nth-of-type(2)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(3) > td:nth-of-type(3)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(3)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(2) > td:nth-of-type(1)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(3) > td:nth-of-type(1)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(4) > td:nth-of-type(3)
+katfile.biz##.visible-xs > div:nth-of-type(1) > table.dl-compare:nth-of-type(2) > tbody > tr:nth-of-type(4) > td:nth-of-type(2)
+katfile.biz##.k-emo-banner
+katfile.biz##span.sp:nth-of-type(1)
+katfile.biz##span.sp:nth-of-type(2)
+mega4upload.net##.mu-nav__inner
+mega4upload.net##.dl-grid-2 > div.dl-card:nth-of-type(1)
+mega4upload.net##section.dl-section:nth-of-type(2)
+mega4upload.net##.dl-btn.dl-btn--premium
+mega4upload.net##.dl-section.dl-section--subtle
+mega4upload.net##section.dl-section:nth-of-type(5)
+mega4upload.net##.mu-footer__inner
+mega4upload.net##.dl-hero__icon
+mega4upload.net##.dl-hero__eyebrow
+mega4upload.net##div.dl-card:nth-of-type(1) > .dl-card__head
+mega4upload.net##div.dl-card:nth-of-type(1) > .dl-card__body
+mega4upload.net##div.dl-card:nth-of-type(2) > .dl-card__head
+mega4upload.net##.tab-content.dl-tabpanel
+mega4upload.net##.dl-side-card.dl-upsell
+mega4upload.net##.dl-side-card.dl-follow
+mega4upload.net##div.dl-card:nth-of-type(3) > .dl-card__head
+mega4upload.net##.nav.nav-fill.dl-tabs
+mega4upload.net##div.dl-card:nth-of-type(2)
+mega4upload.net##.btn.btn-outline-secondary.btn-sm
+mega4upload.net##div.dl-card:nth-of-type(1)
+mega4upload.net##.dl-card__body.dl-faq
+mega4upload.net##div.dl-card:nth-of-type(3)
+www.metauploads.xyz##.text-\[15px\].font-semibold.tracking-tight
+www.metauploads.xyz##.mb-6.flex.h-16.w-16.items-center.justify-center.rounded-\[18px\].bg-accent-blue-soft.mx-auto
+www.metauploads.xyz##.mt-6.pt-6.border-t.border-hairline.flex.justify-around.text-center
+www.metauploads.xyz##.mt-6.flex.gap-3.items-start.justify-center.text-xs.text-foreground-3 > p
+www.metauploads.xyz##.mt-6.flex.gap-3.items-start.justify-center.text-xs.text-foreground-3

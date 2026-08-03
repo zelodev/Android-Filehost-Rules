@@ -1,3 +1,6 @@
+! Title: Android Filehost Rules
+! Description: Rules to clean up APK filehosts in conjunction with default filters
+! Homepage: https://github.com/zelodev/Android-Filehost-Rules
 modsfire.com##.download-block
 modsfire.com##.download-wrp
 modsfire.com##.disc-tab

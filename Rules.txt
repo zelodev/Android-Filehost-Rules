@@ -249,3 +249,47 @@ www.metauploads.xyz##.mb-6.flex.h-16.w-16.items-center.justify-center.rounded-\[
 www.metauploads.xyz##.mt-6.pt-6.border-t.border-hairline.flex.justify-around.text-center
 www.metauploads.xyz##.mt-6.flex.gap-3.items-start.justify-center.text-xs.text-foreground-3 > p
 www.metauploads.xyz##.mt-6.flex.gap-3.items-start.justify-center.text-xs.text-foreground-3
+cloudfam.io##.bg-white.border.border-slate-200.rounded-2xl.p-3.flex.items-center.justify-center.gap-2.text-\[11px\].text-slate-500.shadow-sm
+cloudfam.io##.max-w-6xl.w-full.mx-auto.flex.items-center.justify-between.py-5.px-4.sm\:px-6
+cloudfam.io##.shimmer.absolute.inset-0
+cloudfam.io##.w-full.bg-gradient-to-r.from-blue-500.via-blue-600.to-blue-500.text-white.text-\[11px\].font-bold.py-2.px-4.text-center.relative.overflow-hidden
+cloudfam.io##div.cf-card.p-5:nth-of-type(3)
+cloudfam.io##.cf-card.p-5.bg-gradient-to-br.from-white.to-slate-50
+cloudfam.io##.cf-card.p-6.border-blue-200.bg-gradient-to-br.from-white.via-blue-50\/30.to-white.relative.overflow-hidden
+cloudfam.io##.cf-card.p-6.flex.flex-col.justify-between.relative.overflow-hidden.group.opacity-80.hover\:opacity-100
+cloudfam.io##.cf-card.p-6.border-blue-300.bg-gradient-to-b.from-white.to-blue-50\/30.flex.flex-col.justify-between.relative.overflow-hidden.group
+cloudfam.io##.lg\:col-span-7.space-y-5
+cloudfam.io##.fixed.bottom-12.left-0.right-0.p-3.bg-gradient-to-t.from-white.to-transparent.z-20.lg\:hidden
+cloudfam.io##.fixed.bottom-0.left-0.right-0.bg-white\/95.border-t.border-slate-200.py-2.px-4.z-30.backdrop-blur-sm
+cloudfam.io##.text-center.text-\[11px\].text-slate-400.mt-8.py-6.border-t.border-slate-200
+cloudfam.io##.text-xs.text-slate-500.leading-relaxed.mb-4
+cloudfam.io##.w-12.h-12.rounded-2xl.bg-red-50.text-red-500.flex.items-center.justify-center.shrink-0.text-xl.border.border-red-100
+cloudfam.io##.text-lg.font-black.text-\[\#0f172a\].leading-tight.font-\[\'Outfit\'\]
+cloudfam.io##.flex.items-center.gap-3.mb-4 > div:nth-of-type(2) > .text-\[10px\].font-extrabold.uppercase.tracking-widest.text-red-500
+cloudfam.io##.text-\[11px\].text-slate-400.mt-1.font-medium
+cloudfam.io##.cf-card.p-6.border-red-200.bg-gradient-to-b.from-white.to-red-50\/30.relative.overflow-hidden > .relative.z-10 > .flex.items-center.justify-between.mb-3 > .text-\[10px\].font-extrabold.uppercase.tracking-widest.text-red-500
+cloudfam.io##.text-\[10px\].text-slate-400.text-center.mt-2
+cloudfam.io##.cf-countdown-label
+cloudfam.io###toast-prompt
+api.razorpay.com
+checkout.razorpay.com
+dclsrv.com
+dtasrvr.com
+llvpn.com
+clarity.ms
+displayvertising.com
+cleverwebserver.com
+barren-theory.com
+www.wrgbfnwwg.com
+www.wgijikal.com
+jsc.adskeeper.com
+serve.popads.net
+highratecpm.com
+exoclick.com
+byebye.pro
+hilltopads.net
+labs-cdn.revcontent.com
+jsc.mgid.com
+resources.infolinks.com
+res.popcash.net
+bdv.bitvertiser.com

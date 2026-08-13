@@ -194,6 +194,10 @@ cloudfam.io##div.b.done:nth-of-type(1)
 cloudfam.io##div.b.done:nth-of-type(2)
 cloudfam.io##div.b.done:nth-of-type(4)
 cloudfam.io##div.b.done:nth-of-type(3)
+cloudfam.io##.bg-white.rounded-3xl.p-6.max-w-sm.w-full.shadow-2xl.border.border-slate-100
+cloudfam.io###monthly-promo-modal
+cloudfam.io##.detection-notice.flex.items-start.gap-3
+cloudfam.io##.cf-card.p-4.sm\:p-5.bg-gradient-to-br.from-white.to-blue-50\/40.border-blue-200
 katfile.biz###container > div:nth-of-type(3) > div:nth-of-type(1)
 katfile.biz###kf-ad
 katfile.biz###kf-ad-overlay

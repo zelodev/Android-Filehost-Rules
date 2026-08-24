@@ -49,6 +49,7 @@ www.up-4ever.net##h2
 www.up-4ever.net##.u4r2-tick
 www.up-4ever.net##.u4r2-eyebrow
 www.up-4ever.net##.u4r2-railslot
+www.up-4ever.net###u4ab_modal
 ||dfrdpg4p.buzz^
 uploady.io##.tg-coup-inner
 uploady.io###tg-coup-wrap

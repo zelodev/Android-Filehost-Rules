@@ -11,6 +11,8 @@ modsfire.com##.inf-down
 modsfire.com##.container.p-0
 modsfire.com##.top-downloads
 modsfire.com##.footer-waves > .img-fluid.light-mode-img
+modsfire.com##.mf-discover-view > .mf-explore-head
+modsfire.com###mfFileExplore
 upfilesgo.com##.wrap.nav-inner
 upfilesgo.com##.download-option.premium
 upfilesgo.com##div.download-option:nth-of-type(1) > h4

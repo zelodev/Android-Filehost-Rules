@@ -312,3 +312,4 @@ cloudfam.io###toast-prompt
 ||resources.infolinks.com^
 ||res.popcash.net^
 ||bdv.bitvertiser.com^
+||ndcertainlywhen.com^

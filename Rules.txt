@@ -96,6 +96,12 @@ djxmaza.in##.footer.p-5.position-absolute
 djxmaza.in##div.col-12.aboutFile.mb-4:nth-of-type(3)
 djxmaza.in##div.text-center.mb-4:nth-of-type(5)
 djxmaza.in##div.text-center:nth-of-type(6)
+devuploads.com##.page-band-title.page-band-title-compact.hero-flush
+devuploads.com##.dl-promo-mini
+devuploads.com##section.card.card-pad
+devuploads.com##.container-site.signup-band-grid
+devuploads.com##.footer-ice
+devuploads.com##.site-header.container-site
 uploadrar.com##.row.header-row.align-items-center.flex-nowrap
 uploadrar.com##.btn.btn-primary.btn-lg.m-2
 uploadrar.com##div.small.text-muted.mb-4:nth-of-type(9)
